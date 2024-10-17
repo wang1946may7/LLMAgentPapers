@@ -4,25 +4,16 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 ![](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers?color=green) 
 
+This Repo is used for DSAT Team in Sony. 
 Must-read Papers on Large Language Model Agents.
-
+Please do not wriiten sensitive messeage about our proposal here, as it is used for discussion of related work!
 ---
-
-*"Here are some other paper lists you might be interested in:*
-
-💡 **[Prompt4ReasoningPapers](https://github.com/zjunlp/Prompt4ReasoningPapers):** Reasoning with Language Model Prompting Papers.
-
-🔬 **[KnowledgeEditingPapers](https://github.com/zjunlp/KnowledgeEditingPapers):**  Must-read papers on knowledge editing for large language models.
-
-*We sincerely invite you to dive into these collections of papers and resources, each offering a distinct journey of exploration and discovery.*  :partying_face:”
 
 
 
 ## 🔔 News
 
-- **[2024-03]** We release a new paper: "[KnowAgent: Knowledge-Augmented Planning for LLM-Based Agents](https://arxiv.org/abs/2403.03101)".
-- **[2023-06]** We create this repository to maintain a paper list on *Multi-agents*.
-
+- **[2024-10]** We forked this from [Here]([https://www.openai.com](https://github.com/zjunlp/LLMAgentPapers)).
 
 
 ## 📜Content
@@ -957,10 +948,8 @@ Must-read Papers on Large Language Model Agents.
 
 ### Contributing to this paper list
 
-⭐" **Join us in improving this repository!** If you know of any important works we've missed, please contribute. Your efforts are highly valued!   "
+⭐" **All DSAT Members, you are welcome to join us in improving this repository!** If you know of any important works we've missed, please contribute. Your efforts are highly valued!   "
 
 ### Contributors
 
-<a href="https://github.com/zjunlp/LLMAgentPapers/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=zjunlp/LLMAgentPapers" />
-</a>
+
