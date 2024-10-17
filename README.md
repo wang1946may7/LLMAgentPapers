@@ -5,7 +5,9 @@
 ![](https://img.shields.io/github/last-commit/zjunlp/LLMAgentPapers?color=green) 
 
 This Repo is used for DSAT Team in Sony. 
+
 Must-read Papers on Large Language Model Agents.
+
 Please do not wriiten sensitive messeage about our proposal here, as it is used for discussion of related work!
 ---
 
